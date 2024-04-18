@@ -15,7 +15,7 @@
 - Zeisel : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60361
 
 ## Usage  
-We take Baron dataset as an example 
+The Baron dataset is taken as an exmaple: 
 ```bash
 python main.py --data_path './Baron.h5' --save_model_path './save_file' --n_clusters 14
 ```

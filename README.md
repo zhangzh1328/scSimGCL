@@ -1,4 +1,4 @@
-# LIGHTENER
+# scSimGCL
 ## Requirements
 - python : 3.8.17
 - scanpy : 1.9.6

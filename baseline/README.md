@@ -11,6 +11,6 @@
 | GE-Impute   | python   | [https://github.com/wxbCaterpillar/GE-Impute](https://github.com/wxbCaterpillar/GE-Impute) |
 | scGCL       | python   | [https://github.com/zehaoxiong123/scGCL](https://github.com/zehaoxiong123/scGCL) |
 | AutoClass   | python   | [https://github.com/datapplab/AutoClass](https://github.com/datapplab/AutoClass) |
-| MAGIC       | python   | [https://github.com/deeplab/magic](https://github.com/deeplab/magic) |
-| SAVER       | R        | [https://github.com/mohuangy/SAVER](https://github.com/mohuangy/SAVER) |
+| MAGIC       | python   | [https://github.com/dpeerlab/magic](https://github.com/dpeerlab/magic) |
+| SAVER       | R        | [https://github.com/mohuangx/SAVER](https://github.com/mohuangx/SAVER) |
 | scImpute    | R        | [https://github.com/Vivianstats/scImpute](https://github.com/Vivianstats/scImpute) |

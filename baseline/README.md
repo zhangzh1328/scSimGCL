@@ -6,8 +6,8 @@
 | CIDR        | R        | [https://github.com/VCCRI/CIDR](https://github.com/VCCRI/CIDR) |
 | SIMLR       | R        | [https://github.com/BatzoglouLabSU/SIMLR](https://github.com/BatzoglouLabSU/SIMLR) |
 | k-means     | python   | [https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) |
-| leiden      | python   | [https://github.com/scverse/scanpy](https://github.com/scverse/scanpy) |
-| louvain     | python   | [https://github.com/scverse/scanpy](https://github.com/scverse/scanpy) |
+| leiden      | python   | [https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.leiden.html](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.leiden.html) |
+| louvain     | python   | [https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.louvain.html](https://scanpy.readthedocs.io/en/stable/generated/scanpy.tl.louvain.html) |
 | GE-Impute   | python   | [https://github.com/wxbCaterpillar/GE-Impute](https://github.com/wxbCaterpillar/GE-Impute) |
 | scGCL       | python   | [https://github.com/zehaoxiong123/scGCL](https://github.com/zehaoxiong123/scGCL) |
 | AutoClass   | python   | [https://github.com/datapplab/AutoClass](https://github.com/datapplab/AutoClass) |

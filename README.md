@@ -13,6 +13,8 @@
 - Camp : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81252
 - Mouse bladder cells : https://figshare.com/s/865e694ad06d5857db4b
 - Zeisel : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE60361
+- Tabula Sapiens : https://figshare.com/projects/Tabula_Sapiens/100973
+- Chien : https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247988
 
 ## Usage  
 The Baron dataset is taken as an exmaple: 

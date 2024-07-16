@@ -2,7 +2,7 @@
 |-------------|----------|------------------------------------------------|
 | scDCCA      | python   | [https://github.com/WJ319/scDCCA](https://github.com/WJ319/scDCCA) |
 | scGNN       | python   | [https://github.com/juexinwang/scGNN](https://github.com/juexinwang/scGNN) |
-| graph-sc    | R        | [https://github.com/ciortanmadalina/graph-sc](https://github.com/ciortanmadalina/graph-sc) |
+| graph-sc    | python   | [https://github.com/ciortanmadalina/graph-sc](https://github.com/ciortanmadalina/graph-sc) |
 | CIDR        | R        | [https://github.com/VCCRI/CIDR](https://github.com/VCCRI/CIDR) |
 | SIMLR       | R        | [https://github.com/BatzoglouLabSU/SIMLR](https://github.com/BatzoglouLabSU/SIMLR) |
 | k-means     | python   | [https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) |

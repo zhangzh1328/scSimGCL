@@ -1,0 +1,6 @@
+1. Download Dataset.
+2. Generate Preprocessed H5AD File.
+python preprocess/preprocess_data.py --input_h5_path="./data/original/yan.h5" --save_h5ad_dir="./data/preprocessed/" --filter --norm --log --scale --select_hvg
+python preprocess/preprocess_data.py --count_csv_path="./data/original/yan_counts.csv" --label_csv_path="./data/original/yan_labels.csv" --save_h5ad_dir="./data/preprocessed/" --filter --norm --log --scale --select_hvg
+3. Apply scGCC
+python scGCC.py --input_h5ad_path="data/preprocessed/yan_preprocessed.h5ad"

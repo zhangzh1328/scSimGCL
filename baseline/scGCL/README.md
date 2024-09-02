@@ -1,2 +1,2 @@
-We use the same version of the code provided by scGCL on GitHub.  
-scGCL.ipynb contains hyperparameters used in the model.
+We import the source code from the scGCL repo.  
+scGCL.ipynb contains the hyperparameters used.

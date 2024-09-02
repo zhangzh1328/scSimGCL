@@ -1,2 +1,2 @@
-We use the same version of the code provided by AutoClass on GitHub.  
-AutoClass.ipynb contains hyperparameters used in the model.
+We import the source code from the AutoClass repo.  
+AutoClass.ipynb contains the hyperparameters used.

@@ -1,6 +1,7 @@
 | Method      | Language | Reference                                      |
 |-------------|----------|------------------------------------------------|
 | scDCCA      | python   | [https://github.com/WJ319/scDCCA](https://github.com/WJ319/scDCCA) |
+| scGCC       | python   | [https://github.com/tswstart/scGCC](https://github.com/tswstart/scGCC) |
 | scGNN       | python   | [https://github.com/juexinwang/scGNN](https://github.com/juexinwang/scGNN) |
 | graph-sc    | python   | [https://github.com/ciortanmadalina/graph-sc](https://github.com/ciortanmadalina/graph-sc) |
 | CIDR        | R        | [https://github.com/VCCRI/CIDR](https://github.com/VCCRI/CIDR) |

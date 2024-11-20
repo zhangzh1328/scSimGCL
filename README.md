@@ -1,5 +1,5 @@
 # Graph contrastive learning as a versatile foundation for advanced scRNA-seq data analysis
-![model](https://github.com/zhangzh1328/scSimGCL/scSimGCL.png)
+![model](https://github.com/zhangzh1328/scSimGCL/blob/main/scSimGCL.png)
 
 ## Requirements
 - python : 3.8.17
